@@ -1,2 +1,2 @@
 # PortScanner
-PortScanner project made with Python
+basic PortScanner project made with Python
